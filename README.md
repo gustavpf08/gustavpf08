@@ -22,8 +22,14 @@ Bem-vindo aos meus repositórios <br>
     <a href="https://www.linkedin.com/in/gustavo-paulino-713071265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:gustapf08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://github.com/gustavpf08/"><img height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavfp08/gustavpf08/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavpf08/gustavpf08/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavpf08/gustavpf08/output/github-contribution-grid-snake.svg">
+    </picture>
   </div>
 
+  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Feito por <a href="https://www.linkedin.com/in/gustavo-paulino-713071265/">Gustavo Paulino</a> :fleur_de_lis:
