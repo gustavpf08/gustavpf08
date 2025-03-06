@@ -1,5 +1,5 @@
 # Opa, eu sou Gustavo! 🖐️
-Sou desenvolvedor Web Fronted <br>
+Sou desenvolvedor FullStack <br>
 Bem-vindo aos meus repositórios <br>
 <div>
   <a href="https://github.com/gustavpf08">
